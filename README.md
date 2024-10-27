@@ -1,3 +1,8 @@
 # Chasing-Corners
 
-This simulation extends the classic pursuit problem from Prof. H.C. Verma’s Concepts of Physics Vol 1, where three particles move towards each other from the vertices of an equilateral triangle with uniform velocity. By expanding this to include a square, a regular pentagon, and a regular hexagon, and employing Python simulations to visualize their paths, this study explores the impact of uniform acceleration on their trajectories, offering a deeper understanding of kinematic behaviors. This comprehensive analysis aims to engage high school and undergraduate students with a fascinating exploration of classical mechanics.
+This repository contains simulation codes for visualizing particle trajectories moving towards each other from the vertices of various regular polygons (equilateral triangle, square, regular pentagon, and regular hexagon). The simulations cover both constant velocity and constant acceleration cases.
+
+Requirements
+Python 3
+NumPy
+Matplotlib
